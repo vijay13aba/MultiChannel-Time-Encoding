@@ -10,8 +10,8 @@
 	 Code/multi_iter_recon.m contains the code for reconstruction of a signal encoded by a M-channel TEM
 	 single_channel.m , multi_channel.m are scripts for running the functions
 	 
-Results folder contains the plots of original,encoded,reconstructed,error for different signals. 	 
+3. Results folder contains the plots of original,encoded,reconstructed,error for different signals. 	 
 
-References
-[1] 
+4. References
+[1]  
 [2]
