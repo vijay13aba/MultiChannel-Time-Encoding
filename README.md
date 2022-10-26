@@ -1,6 +1,7 @@
 # MultiChannel-Time-Encoding
 
-1. theory contains all the background theory and math. It contains a .tex file and corresponding pdf.
+1. theory contains all the background theory and math. 
+	It contains a .tex file and corresponding pdf.
 	
 2. Code contains all the codes
 	-Code/TEM.m contains the code for single channel Time encoding machine
