@@ -1,6 +1,4 @@
-references contains the two papers that have been used.
-
-theory contains all the background theory and math to the extent that we were able to understand.
+theory contains all the background theory and math.
 	It contains a .tex file and corresponding pdf.
 	
 Code contains all the codes
@@ -11,3 +9,7 @@ Code contains all the codes
 	 single_channel.m , multi_channel.m are scripts for running the functions
 	 
 Results folder contains the plots of original,encoded,reconstructed,error for different signals. 	 
+
+References
+[1] 
+[2] 
